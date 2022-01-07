@@ -9,14 +9,13 @@
 <a href="https://www.codechef.com/users/json_illusion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="json_illusion" height="30" width="40" /></a>
 </p>
 
-
-<center>
 &nbsp;
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityachandra1&show_icons=true&locale=en&theme=radical" alt="adityachandra1" />
-  
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachandra1&show_icons=true&locale=en&layout=compact&theme=radical" alt="adityachandra1" /></p>
-</center>
+</br>
+</br></br>  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachandra1&show_icons=true&locale=en&layout=compact&theme=radical" alt="adityachandra1" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
