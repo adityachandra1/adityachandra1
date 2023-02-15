@@ -1,5 +1,5 @@
 <h1 align="center">Hi :), I'm Aditya Chandra</h1>
-<h3 align="center">I love solving problems and enjoy competitive programming. Experienced in Full-Stack Web Development (MERN Stack). Also have some experience with Flutter :)</h3>
+<h3 align="center">Experienced in Backend Developement with Node.js, Express, Mongo. I love solving problems and enjoy competitive programming. :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachandra1&label=Profile%20views&color=0e75b6&style=flat" alt="adityachandra1" /> </p>
 
