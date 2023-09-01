@@ -1,5 +1,5 @@
 <h1 align="center">Hi :), I'm Aditya Chandra</h1>
-<h3 align="center">Experienced in fullstack development with MERN. I love solving problems and enjoy competitive programming. :)</h3>
+<h3 align="center">I relish the excitement of tackling complex problems, turning them into elegant solutions :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachandra1&label=Profile%20views&color=0e75b6&style=flat" alt="adityachandra1" /> </p>
 
